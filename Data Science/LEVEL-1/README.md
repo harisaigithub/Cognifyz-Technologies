@@ -72,16 +72,23 @@ A big thank you to Cognifyz Technologies for this opportunity and to my mentors 
 ## outputs  🔗
 
 ## Task 1: Data Exploration and Preprocessing
-![TASK-1-op]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK-1\op-t1_1.png")
+![TASK-1-op](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/bb472854-ed56-4cf9-8162-6558edc65e8b)
 
 
 ## Task 2: Descriptive Analysis
-![TASK-1-op-1]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_2\op-t2_1.png")
-![TASK-1-op-2]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_2\op-t2_2.png")
-![TASK-1-op-3]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_2\op-t2_3.png")
+![TASK-2-op-t2_1](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/e8c0bb89-b5cf-46e0-b41b-66b019baff6d)
+
+![TASK-1-op-2](![op-t2_2](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/2f52bebc-80a3-40e3-a36c-0f6c89b70af3)
+)
+![TASK-1-op-3](![op-t2_3](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/5b1111e7-d8ba-4730-a317-2355724b5d94)
+)
 
 ## Task 3: Geospatial Analysis
-![TASK-1-op-1]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_1.png")
-![TASK-1-op-2]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_2.png")
-![TASK-1-op-3]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_3.png")
-![TASK-1-op-4]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_4.png")
+![TASK-1-op-1](![op-t3_1](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/82906acd-c017-445b-8ce4-0b10bcfc44d3)
+)
+![TASK-1-op-2](![op-t3_2](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/a9a881b5-60de-46d8-89b2-370482e6cdf2)
+)
+![TASK-1-op-3](![op-t3_3](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/8ea1a4f0-c46e-438b-804d-aa8d7f8a41af)
+)
+![TASK-1-op-4](![op-t3_4](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/5b80f7d5-0865-4876-b2af-8da8b01ae565)
+)
