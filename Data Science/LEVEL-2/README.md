@@ -57,7 +57,7 @@ A big thank you to Cognifyz Technologies for this opportunity and to my mentors 
 
 
 ### Task 3: Feature Engineering
-![task-3](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/8d9fbb2d-7234-475b-8afd-636aef0a568d)
+![task-3 op](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/f55d6ac6-ffcc-46d3-904b-80effd2579d1)
 
 
 ### file link 🔗
