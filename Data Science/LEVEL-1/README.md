@@ -83,7 +83,7 @@ A big thank you to Cognifyz Technologies for this opportunity and to my mentors 
 ## Visualize distribution of 'City'
 ![TASK-1-op-2](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/2f52bebc-80a3-40e3-a36c-0f6c89b70af3)
 
-##Visualize distribution of 'Cuisines'
+## Visualize distribution of 'Cuisines'
 ![TASK-1-op-3](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/5b1111e7-d8ba-4730-a317-2355724b5d94)
 
 
