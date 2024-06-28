@@ -72,23 +72,31 @@ A big thank you to Cognifyz Technologies for this opportunity and to my mentors 
 ## outputs  🔗
 
 ## Task 1: Data Exploration and Preprocessing
+## Plot distribution of Aggregate Rating
 ![TASK-1-op](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/bb472854-ed56-4cf9-8162-6558edc65e8b)
 
 
 ## Task 2: Descriptive Analysis
+## Calculate basic statistics for numerical columns
 ![TASK-2-op-t2_1](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/e8c0bb89-b5cf-46e0-b41b-66b019baff6d)
 
+## Visualize distribution of 'City'
 ![TASK-1-op-2](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/2f52bebc-80a3-40e3-a36c-0f6c89b70af3)
 
+##Visualize distribution of 'Cuisines'
 ![TASK-1-op-3](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/5b1111e7-d8ba-4730-a317-2355724b5d94)
 
 
 ## Task 3: Geospatial Analysis
+## Task 1: Plotting Restaurant Locations
 ![TASK-1-op-1](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/82906acd-c017-445b-8ce4-0b10bcfc44d3)
 
+## Task 2: Plotting Restaurant Distribution by City
 ![TASK-1-op-2](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/a9a881b5-60de-46d8-89b2-370482e6cdf2)
 
+## Task 3: Plotting Restaurant Distribution by Country
 ![TASK-1-op-3](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/8ea1a4f0-c46e-438b-804d-aa8d7f8a41af)
 
+## Task 4: Plotting Restaurant Locations and Ratings
 ![TASK-1-op-4](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/5b80f7d5-0865-4876-b2af-8da8b01ae565)
 
