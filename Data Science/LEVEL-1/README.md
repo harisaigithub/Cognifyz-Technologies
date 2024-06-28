@@ -69,3 +69,19 @@ This level of the internship provided a solid foundation in data exploration, de
 
 A big thank you to Cognifyz Technologies for this opportunity and to my mentors and peers for their continuous support.
 
+## outputs  🔗
+
+## Task 1: Data Exploration and Preprocessing
+![TASK-1-op]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK-1\op-t1_1.png")
+
+
+## Task 2: Descriptive Analysis
+![TASK-1-op-1]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_2\op-t2_1.png")
+![TASK-1-op-2]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_2\op-t2_2.png")
+![TASK-1-op-3]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_2\op-t2_3.png")
+
+## Task 3: Geospatial Analysis
+![TASK-1-op-1]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_1.png")
+![TASK-1-op-2]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_2.png")
+![TASK-1-op-3]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_3.png")
+![TASK-1-op-4]("E:\Cognifyz-Technologies\Data Science\LEVEL-1\TASK_3\op-t3_4.png")
