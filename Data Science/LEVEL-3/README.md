@@ -41,7 +41,7 @@ This repository contains the work completed for Level 3 of my Data Science inter
 
 ### Task 1: Predictive Modeling
 - **Model Performance Metrics**
-  ![Model Performance] (https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/c2a6c188-d83c-4674-b6f5-95499b43bb14)
+  ![Model Performance](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/c2a6c188-d83c-4674-b6f5-95499b43bb14)
 
 ### Task 2: Customer Preference Analysis
 
@@ -54,7 +54,7 @@ This repository contains the work completed for Level 3 of my Data Science inter
 
 
 - **Higher Rated Cuisines**
-  ![Higher Rated Cuisines task-2-3] (https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/1debee7f-dd2d-4e96-95a2-5768cdc9f40a)
+  ![Higher Rated Cuisines task-2-3](https://github.com/harisaigithub/Cognifyz-Technologies/assets/114827365/1debee7f-dd2d-4e96-95a2-5768cdc9f40a)
 
 
 ### Task 3: Data Visualization
